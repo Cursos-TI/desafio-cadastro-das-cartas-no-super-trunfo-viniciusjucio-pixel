@@ -74,7 +74,7 @@ int main() {
     printf("PIB: %f\n", pib1);
     printf("Número de Pontos Turísticos: %d\n", NumPontosturisticos1);
     printf("Densidade populacional: %.2f\n", densidade1);
-    printf("PIB percapita: %.2f\n");
+    printf("PIB percapita: %.2f\n", pibPercapita1);
 
     printf("\n--Dados da carta 2--\n");
     printf("Estado: %c\n", estado2);
@@ -84,8 +84,8 @@ int main() {
     printf("Área: %f\n", area2);
     printf("PIB: %f\n", pib2);
     printf("Número de pontos turísticos: %d\n", numPontosturisticos2);
-    printf("Densidade Populacional: %.2f\n");
-    printf("PIB percapita: %.2f\n");
+    printf("Densidade Populacional: %.2f\n", densidade2);
+    printf("PIB percapita: %.2f\n", pibPercapita2);
 
 
     return 0;
